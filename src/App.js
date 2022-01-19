@@ -25,6 +25,9 @@ function App() {
           <li>
             <Link to="/dashboard">Dashboard</Link>
           </li>
+          <li>
+            <a href="https://github.com/mdmehedyhassan/re-socail-buddy">Github code</a>
+          </li>
         </ul>
 
         <hr />
